@@ -1,3 +1,6 @@
 はじめてのgit windows
 
 きほんてきなそうさ
+
+git add
+git commit
